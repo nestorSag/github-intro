@@ -3,4 +3,4 @@
 names = ['Magda']
 
 if __name__ == "__main__":
-    print(f"{', '.join(names)} Magda was here!")
+    print(f"{', '.join(names)} was here!")
