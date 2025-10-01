@@ -1,0 +1,6 @@
+# Is anyone seeing this new commit?
+# If you are, write your name below and push your changes!
+names = ['Magda']
+
+if __name__ == "__main__":
+    print(f"{', '.join(names)} Magda was here!")
