@@ -1,5 +1,5 @@
 
-names = ['Nestor']
+names = ['Nestor', 'Tom']
 
 if __name__ == "__main__":
-    print(f"Hello {', '.join(names)}!")
+    print(f"Hola {', '.join(names)}!")
